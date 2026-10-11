@@ -1,0 +1,54 @@
+﻿
+body {
+    background-color: #f3f6fb;
+    font-family: 'Segoe UI', sans-serif;
+    color: #1e293b;
+}
+
+h1 {
+    color: #172554;
+    font-weight: 750;
+}
+
+h3, h4 {
+    font-weight: 650;
+}
+
+.card {
+    border: none;
+    border-radius: 16px;
+}
+
+.card-body {
+    padding: 28px;
+}
+
+.table thead th {
+    background-color: #eaf0fb;
+    color: #334155;
+    padding: 14px;
+}
+
+.table td {
+    padding: 12px;
+    vertical-align: middle;
+}
+
+.btn {
+    border-radius: 8px;
+}
+
+.form-control {
+    border-radius: 8px;
+}
+
+    .form-control:focus {
+        border-color: #2563eb;
+        box-shadow: 0 0 0 3px #2563eb20;
+    }
+
+#formulario {
+    display: none;
+}
+body {
+}
