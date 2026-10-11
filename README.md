@@ -10,9 +10,7 @@ El proyecto fue desarrollado como parte de una actividad académica de programac
 
 ## Autor
 
-Gabriela Elízabeth Noemí Aguilar Vásquez
-Universidad Mariano Gálvez de Guatemala
-Ingeniería en Sistemas de Información
+Gabriela Elízabeth Noemí Aguilar Vásquez | Universidad Mariano Gálvez |Ingeniería en Sistemas de Información
 
 ## Video demostrativo
 
